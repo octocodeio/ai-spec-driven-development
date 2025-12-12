@@ -9,7 +9,7 @@ Each article here dives into key concepts, workflows, and use cases behind the A
 
 ## 📚 Articles
 
-- [What Is Spec-Driven Development (SDD)?](./docs/articles/what-is-spec-driven-development.md)
+- [What Is Spec-Driven Development (SDD)?](https://github.com/octocodeio/ai-spec-driven-development/blob/main/How-It-Works-and-Why-It-Matters.md)
 
 
 ---
